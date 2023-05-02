@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main {
-    printf("구예후가 짱이다!");
+    printf("韓国最高！");
 
     return 0;
 }
